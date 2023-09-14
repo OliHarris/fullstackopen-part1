@@ -1,6 +1,5 @@
 # fullstackopen-part1
 
-About
 Combined notes and exercises for https://fullstackopen.com/en/part1
 
 ## Notes
