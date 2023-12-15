@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://oliharris.github.io/fullstackopen-part1",
+  "homepage": "https://oliharris.github.io/fullstackopen-part1/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

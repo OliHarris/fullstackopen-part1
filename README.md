@@ -4,7 +4,12 @@ Combined notes and exercises for https://fullstackopen.com/en/part1
 
 ## Available Scripts
 
-In the root directory you can run:
+Basically has two projects:
+
+- anecdotes <-- tutorial
+- unicafe <-- exercise (hosted)
+
+In each root directory you can run:
 
 ### `npm install`
 
@@ -14,16 +19,7 @@ Will perform a usual installation of any dependencies.
 
 Will perform a usual launch of the dev environment.
 
-## Note 1:
-
-Basically has two projects:
-
-- App-unicafe
-- App-anecdotes <--default
-
-This can be switched in the main.jsx file.
-
-## NOTE 2:
+## NOTE:
 
 As this is a Vite app, I hosted it on GitHub pages using this guide:
 
