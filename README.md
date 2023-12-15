@@ -2,12 +2,12 @@
 
 Combined notes and exercises for https://fullstackopen.com/en/part1
 
-## Available Scripts
-
 Basically has two projects:
 
 - anecdotes <-- tutorial
 - unicafe <-- exercise (hosted)
+
+## Available Scripts
 
 In each root directory you can run:
 
